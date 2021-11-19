@@ -1,0 +1,16 @@
+SMAP
+viewConference_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewConference.jsp
+viewConference.jsp
+*L
+5,27:48
+32,8:76
+39,2:84
+41,8:86,3
+49,2:110
+51:112,3
+52,4:115
+*E
